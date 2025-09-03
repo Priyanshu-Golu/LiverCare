@@ -1,0 +1,12 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+scikit-learn
+pandas
+joblib
+numpy
+catboost
+xgboost
+lightgbm
+Model=VotingClassifier
